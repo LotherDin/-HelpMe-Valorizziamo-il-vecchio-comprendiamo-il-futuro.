@@ -30,3 +30,34 @@ Studente Lorenzo: interessato ad apprendere JavaScript mette a disposizione: Rac
 La somma di questi 3 oggetti che mette in vetrina LORENZO corrisponde a 150 token, manda la richiesta a Giulio e chiede di ricevere un servizio; se Giulio accetta avviene lo scambio di servizi.
 
 Ovviamente, detto così, può sembrare molto semplice. Lo scambio dei beni avviene solo a fine prestazione; tutto quello che viene caricato 'come oggetti' viene temporaneamente bloccato (dobbiamo un po' affidarci al voler aiutare il prossimo, non voglio pensare che ci sia solo gente che voglia derubare il prossimo).
+
+
+
+
+# HELPME - Valuing the old, understanding the future.
+
+HelpMe is born with the intention of helping people who cannot afford to seek economic help in pursuing an interest. By interest, I mean being helped to study, finding a specialized tutor in a specific subject, or any professional assistance.
+
+Imagine needing a session with a specialist (Doctor/Orthopedic/Psychologist, or a private tutor for lessons... or even wanting to learn to play the guitar, a developer helping you understand [like MY PRIMARY INTEREST]), but not having the economic means to pay a professional. Well, HelpMe is the app that aims to help you.
+
+## How could HelpMe help you?
+
+The idea is to have a service exchange without 'currency, euros, "Sbleuri"'. How can a service exchange occur without the use of economic compensation? Well, the idea is that of the good old barter system.
+I, a student who obviously spends my time studying and does not have an economic income, need to have an extra hand in a subject, but I cannot afford to pay a teacher for tutoring, nor do I have a family that can afford it. However, thanks to HelpMe, it will be possible.
+
+## HelpMe Structure:
+
+The requester for help will make available some of their possessions (only used stuff), to enhance recycling (Material/Example: a bicycle, a collection of comics, etc., anything).
+Each item will be given a token value, which will be our payment/measurement method (e.g., Functioning bicycle 50 Tokens). Previously loaded into the app with a photo/status - The evaluation will be entrusted to the app, which will give the final tokens for the object.
+
+The professional/one who offers to respond to the requested service can accept the object if interested, in exchange for hours of their profession. Example: I, a teacher, offer 4 hours of tutoring -> equivalent to 100 tokens.
+
+The person interested in tutoring will send a request to the teacher (specific interest request), offering objects for the overall value of interest.
+
+Let's consider the case where:
+Programmer Giulio: offers 5 hours of JavaScript lessons / 5 hours correspond to 150 tokens.
+Student Lorenzo: interested in learning JavaScript, offers: Complete collection of StarWars comics worth 20 tokens, a laptop worth 100 tokens, a Italia90 football jersey worth 30 tokens.
+
+The sum of these 3 objects that Lorenzo showcases corresponds to 150 tokens, sends the request to Giulio, and asks to receive a service; if Giulio accepts, the service exchange takes place.
+
+Obviously, said like this, it may seem very simple. The exchange of goods only takes place at the end of the service; everything that is loaded 'as objects' is temporarily blocked (we have to trust a bit in wanting to help others; I don't want to think that there are only people who want to rob others).
